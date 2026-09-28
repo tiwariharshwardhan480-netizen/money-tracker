@@ -1,4 +1,0 @@
-Example data file location:
-data/money_data.json
-
-The JSON file is created automatically when the program saves its data.
